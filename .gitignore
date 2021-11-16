@@ -4,6 +4,11 @@ pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
+
+almworkshop-basic.iml
+.mvn/wrapper/maven-wrapper.jar
+
+
 # Eclipse
 .project
 .classpath
